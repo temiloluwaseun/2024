@@ -10,3 +10,7 @@ print("""line1
 line2
 line3""")
 #python executes line by line so if you declare a variable in line 1 and change the value of the variable in line 40 the end answer is th e value in line 40 unless you request an answer before line 40
+#you can replace word in python using .replace
+rep="Mrs Badejo"
+print(rep.replace("Mrs","Ms"))
+#.count() function count the numbers of the character inserted into the parenthesis in the paticular variable
