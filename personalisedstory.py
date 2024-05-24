@@ -1,6 +1,6 @@
 name=input("what is your name: ")
 age= input("how old are you: ")
-address=input("where do you live: ")
+address=input("wheredo you live: ")
 struggle=input("what have you struggled with: ")
 help=input("what are you doing to help/get better: ")
 print("My name is "+ name.capitalize() +" . I am "+ age +" years old. I am a resident of " + address.capitalize() +". I struggle with"+ struggle.lower() +
