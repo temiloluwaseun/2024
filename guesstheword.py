@@ -11,7 +11,7 @@ display = '_' * len(word_to_guess)
 
 print(display)
 
-# Main game loop
+# Main game  loop
 while attempts_left > 0:
     # Opponent guesses a letter
     guess = input("Guess a letter: ").lower()
