@@ -13,7 +13,7 @@ print(display)
 
 # Main game  loop
 while attempts_left > 0:
-    # Opponent guesses a letter
+    # Opponent guesses a etter
     guess = input("Guess a letter: ").lower()
     
     # Validate the guess
